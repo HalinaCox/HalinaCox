@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Halina 👋
 
-<!--
-**HalinaCox/HalinaCox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer with a background in events & ops (yes, really).  
+Ex-Cisco Meraki • Ex-Affirm • SF Bay Area
 
-Here are some ideas to get you started:
+### What I’m up to
+- Building beautiful, high-performance websites for founders and small teams
+- Bringing product thinking and technical execution together
+- Focused on clarity, speed, and memorable user experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+- **Frontend:** React, TypeScript, HTML/CSS
+- **Backend:** Ruby on Rails, Node.js, REST APIs
+- **Data:** PostgreSQL, SQL
+- **Tools:** GitHub, Docker, CI, Postman
+
+### Find me
+- 🌐 Website: https://halinacox.com
+- 💼 LinkedIn: https://www.linkedin.com/in/halinacox/
+
