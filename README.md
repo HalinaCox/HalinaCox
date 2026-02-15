@@ -1,6 +1,6 @@
 # Hi, I’m Halina 👋
 
-Full-stack engineer with a background in events & ops (yes, really).  
+Full-stack engineer with a background in events & ops.  
 Ex-Cisco Meraki • Ex-Affirm • SF Bay Area
 
 ### What I’m up to
