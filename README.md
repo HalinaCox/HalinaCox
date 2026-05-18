@@ -1,20 +1,41 @@
 # Hi, I’m Halina 👋
 
-Full-stack engineer with a background in events & ops.  
-Ex-Cisco Meraki • Ex-Affirm • SF Bay Area
+Technical operator with experience across executive operations, program leadership, and software engineering.
 
-### What I’m up to
-- Building beautiful, high-performance websites for founders and small teams
-- Bringing product thinking and technical execution together
-- Focused on clarity, speed, and memorable user experiences
+I’m interested in building AI-assisted workflows, operational systems, and thoughtful user experiences that reduce friction and help people execute more effectively.
 
-### Tech I work with
-- **Frontend:** React, TypeScript, HTML/CSS
-- **Backend:** Ruby on Rails, Node.js, REST APIs
-- **Data:** PostgreSQL, SQL
-- **Tools:** GitHub, Docker, CI, Postman
+Previously:
+- Full-stack Software Engineer at Cisco Meraki
+- Executive Assistant at Cisco Meraki & Affirm
+- Program and Events Lead managing large-scale global experiences and operations
 
-### Find me
-- 🌐 Website: https://halinacox.com
-- 💼 LinkedIn: https://www.linkedin.com/in/halinacox/
+## Current Focus
 
+- AI-assisted workflow automation
+- Operational systems and tooling
+- Human-centered AI experiences
+- Technical program operations
+- Building tools that simplify complex workflows
+
+## Selected Projects
+
+### AI Job Search Tracker
+AI-assisted workflow that organizes recruiting and application emails into a centralized tracking system using Gmail, automation tooling, and structured workflows.
+
+### Family Operations Intelligence
+Exploring ways AI can centralize and organize fragmented family logistics including school communications, activities, scheduling, and reminders.
+
+### halinacox.com
+Personal website and evolving digital hub focused on systems thinking, operations, AI workflows, and modern user experiences.
+
+## Tools & Technologies
+
+- AI & Automation: ChatGPT, Claude, Make, workflow automation
+- Technical: React, TypeScript, Ruby on Rails, REST APIs, SQL
+- Operations: Google Workspace, Jira, Confluence, Asana
+- Collaboration: Cross-functional leadership, executive operations, systems thinking
+
+## Find Me
+
+🌐 Website: https://halinacox.com  
+💼 LinkedIn: https://linkedin.com/in/halinacox
